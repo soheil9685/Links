@@ -1,4 +1,5 @@
 import Button from "./components/Button/Button";
+import Footer from "./components/Footer/Footer";
 import Header from "./components/Header/Header";
 import { Col, Container, Row } from 'react-bootstrap';
 
@@ -32,6 +33,7 @@ function App() {
                 </Col>
             </Row>
         </Container>
+        <Footer/>
     </>
   );
 }
