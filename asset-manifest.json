@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Links/static/css/main.ce834b97.css",
-    "main.js": "/Links/static/js/main.453a790a.js",
+    "main.css": "/Links/static/css/main.1fd5adf1.css",
+    "main.js": "/Links/static/js/main.68065a13.js",
     "static/media/profile.jpg": "/Links/static/media/profile.2ced1d1116419fe9499c.jpg",
     "static/media/Lalezar-Regular.ttf": "/Links/static/media/Lalezar-Regular.241ca811c53de4ed36a4.ttf",
     "index.html": "/Links/index.html",
-    "main.ce834b97.css.map": "/Links/static/css/main.ce834b97.css.map",
-    "main.453a790a.js.map": "/Links/static/js/main.453a790a.js.map"
+    "main.1fd5adf1.css.map": "/Links/static/css/main.1fd5adf1.css.map",
+    "main.68065a13.js.map": "/Links/static/js/main.68065a13.js.map"
   },
   "entrypoints": [
-    "static/css/main.ce834b97.css",
-    "static/js/main.453a790a.js"
+    "static/css/main.1fd5adf1.css",
+    "static/js/main.68065a13.js"
   ]
 }
