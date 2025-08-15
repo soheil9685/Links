@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0a41457d.css",
+    "main.js": "/static/js/main.9a82bfa7.js",
+    "static/media/profile.jpg": "/static/media/profile.2ced1d1116419fe9499c.jpg",
+    "static/media/Lalezar-Regular.ttf": "/static/media/Lalezar-Regular.241ca811c53de4ed36a4.ttf",
+    "index.html": "/index.html",
+    "main.0a41457d.css.map": "/static/css/main.0a41457d.css.map",
+    "main.9a82bfa7.js.map": "/static/js/main.9a82bfa7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a41457d.css",
+    "static/js/main.9a82bfa7.js"
+  ]
+}
