@@ -12,7 +12,7 @@ function Header() {
                 <Row className="d-flex justify-content-center">
                     <Col xs={12} className="text-center">
                         <Image src={profile} roundedCircle />
-                        <p className="mt-4">بچه های مسجد اباعبدالله الحسین</p>
+                        <p className="mt-4">بچه های مسجد</p>
                     </Col>
                 </Row>
             </Container>
