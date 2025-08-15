@@ -3,10 +3,10 @@
     src: url("./assets/fonts/Lalezar-Regular.ttf");
 }
 html{
-    height: 100%;
+    height: 100vh;
 }
 body{
     font-family: lalehzar;
     background-color: #E4F9F5;
-    height: 100%;
+    height: 100vh;
 }
