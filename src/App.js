@@ -24,9 +24,9 @@ function App() {
   ]
 
   return (
-    <>
+    <div className="d-flex flex-column" style={{minHeight : "100vh"}}>
       <Header />
-      <Container className='mt-4'>
+      <Container className='mt-4 flex-grow-1'>
             <Row className="d-flex justify-content-center">
                 <Col md={6}>
                     {links.map( link => <Button {...link}/>)}
@@ -34,7 +34,7 @@ function App() {
             </Row>
         </Container>
         <Footer/>
-    </>
+    </div>
   );
 }
 

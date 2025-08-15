@@ -2,7 +2,11 @@
     font-family: lalehzar;
     src: url("./assets/fonts/Lalezar-Regular.ttf");
 }
+html{
+    height: 100%;
+}
 body{
     font-family: lalehzar;
     background-color: #E4F9F5;
+    height: 100%;
 }
