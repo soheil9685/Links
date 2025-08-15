@@ -1,0 +1,7 @@
+@font-face {
+    font-family: lalehzar;
+    src: url("./assets/fonts/Lalezar-Regular.ttf");
+}
+body{
+    font-family: lalehzar;
+}
